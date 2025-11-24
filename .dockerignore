@@ -1,0 +1,7 @@
+node_modules
+*.log
+.git
+.vscode
+Dockerfile*
+README.md
+payload.json

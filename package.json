@@ -1,0 +1,10 @@
+{
+  "name": "playwright-lambda-mhtml",
+  "version": "1.0.0",
+  "description": "AWS Lambda function using Playwright to generate MHTML",
+  "main": "index.js",
+  "dependencies": {
+    "@aws-sdk/client-s3": "^3.370.0",
+    "playwright": "^1.37.0"
+  }
+}
